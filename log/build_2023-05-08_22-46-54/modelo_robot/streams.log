@@ -1,0 +1,35 @@
+[0.852s] Invoking command in '/home/joacohuara/Proyectos_ROS2/barista_robot/src/modelo_robot': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/joacohuara/Proyectos_ROS2/barista_robot/build/modelo_robot/prefix_override:/home/joacohuara/Proyectos_ROS2/barista_robot/install/modelo_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/modelo_robot build --build-base /home/joacohuara/Proyectos_ROS2/barista_robot/build/modelo_robot/build install --record /home/joacohuara/Proyectos_ROS2/barista_robot/build/modelo_robot/install.log --single-version-externally-managed
+[1.159s] running egg_info
+[1.160s] creating ../../build/modelo_robot/modelo_robot.egg-info
+[1.160s] writing ../../build/modelo_robot/modelo_robot.egg-info/PKG-INFO
+[1.160s] writing dependency_links to ../../build/modelo_robot/modelo_robot.egg-info/dependency_links.txt
+[1.161s] writing entry points to ../../build/modelo_robot/modelo_robot.egg-info/entry_points.txt
+[1.161s] writing requirements to ../../build/modelo_robot/modelo_robot.egg-info/requires.txt
+[1.161s] writing top-level names to ../../build/modelo_robot/modelo_robot.egg-info/top_level.txt
+[1.161s] writing manifest file '../../build/modelo_robot/modelo_robot.egg-info/SOURCES.txt'
+[1.165s] reading manifest file '../../build/modelo_robot/modelo_robot.egg-info/SOURCES.txt'
+[1.166s] writing manifest file '../../build/modelo_robot/modelo_robot.egg-info/SOURCES.txt'
+[1.166s] running build
+[1.166s] running build_py
+[1.166s] creating /home/joacohuara/Proyectos_ROS2/barista_robot/build/modelo_robot/build
+[1.166s] creating /home/joacohuara/Proyectos_ROS2/barista_robot/build/modelo_robot/build/lib
+[1.167s] creating /home/joacohuara/Proyectos_ROS2/barista_robot/build/modelo_robot/build/lib/modelo_robot
+[1.167s] copying modelo_robot/__init__.py -> /home/joacohuara/Proyectos_ROS2/barista_robot/build/modelo_robot/build/lib/modelo_robot
+[1.167s] running install
+[1.167s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.167s]   warnings.warn(
+[1.168s] running install_lib
+[1.169s] creating /home/joacohuara/Proyectos_ROS2/barista_robot/install/modelo_robot/lib/python3.10/site-packages/modelo_robot
+[1.169s] copying /home/joacohuara/Proyectos_ROS2/barista_robot/build/modelo_robot/build/lib/modelo_robot/__init__.py -> /home/joacohuara/Proyectos_ROS2/barista_robot/install/modelo_robot/lib/python3.10/site-packages/modelo_robot
+[1.169s] byte-compiling /home/joacohuara/Proyectos_ROS2/barista_robot/install/modelo_robot/lib/python3.10/site-packages/modelo_robot/__init__.py to __init__.cpython-310.pyc
+[1.170s] running install_data
+[1.170s] creating /home/joacohuara/Proyectos_ROS2/barista_robot/install/modelo_robot/share/ament_index
+[1.171s] creating /home/joacohuara/Proyectos_ROS2/barista_robot/install/modelo_robot/share/ament_index/resource_index
+[1.171s] creating /home/joacohuara/Proyectos_ROS2/barista_robot/install/modelo_robot/share/ament_index/resource_index/packages
+[1.171s] copying resource/modelo_robot -> /home/joacohuara/Proyectos_ROS2/barista_robot/install/modelo_robot/share/ament_index/resource_index/packages
+[1.171s] copying package.xml -> /home/joacohuara/Proyectos_ROS2/barista_robot/install/modelo_robot/share/modelo_robot
+[1.171s] running install_egg_info
+[1.174s] Copying ../../build/modelo_robot/modelo_robot.egg-info to /home/joacohuara/Proyectos_ROS2/barista_robot/install/modelo_robot/lib/python3.10/site-packages/modelo_robot-0.0.0-py3.10.egg-info
+[1.175s] running install_scripts
+[1.211s] writing list of installed files to '/home/joacohuara/Proyectos_ROS2/barista_robot/build/modelo_robot/install.log'
+[1.255s] Invoked command in '/home/joacohuara/Proyectos_ROS2/barista_robot/src/modelo_robot' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/joacohuara/Proyectos_ROS2/barista_robot/build/modelo_robot/prefix_override:/home/joacohuara/Proyectos_ROS2/barista_robot/install/modelo_robot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/modelo_robot build --build-base /home/joacohuara/Proyectos_ROS2/barista_robot/build/modelo_robot/build install --record /home/joacohuara/Proyectos_ROS2/barista_robot/build/modelo_robot/install.log --single-version-externally-managed

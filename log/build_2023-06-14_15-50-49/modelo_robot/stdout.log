@@ -1,0 +1,38 @@
+running egg_info
+writing ../../build/modelo_robot/modelo_robot.egg-info/PKG-INFO
+writing dependency_links to ../../build/modelo_robot/modelo_robot.egg-info/dependency_links.txt
+writing entry points to ../../build/modelo_robot/modelo_robot.egg-info/entry_points.txt
+writing requirements to ../../build/modelo_robot/modelo_robot.egg-info/requires.txt
+writing top-level names to ../../build/modelo_robot/modelo_robot.egg-info/top_level.txt
+reading manifest file '../../build/modelo_robot/modelo_robot.egg-info/SOURCES.txt'
+writing manifest file '../../build/modelo_robot/modelo_robot.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+copying package.xml -> /home/joacohuara/Proyectos_ROS2/barista_robot/install/modelo_robot/share/modelo_robot
+creating /home/joacohuara/Proyectos_ROS2/barista_robot/install/modelo_robot/share/modelo_robot/urdf
+copying urdf/centauri6dof.urdf -> /home/joacohuara/Proyectos_ROS2/barista_robot/install/modelo_robot/share/modelo_robot/urdf
+creating /home/joacohuara/Proyectos_ROS2/barista_robot/install/modelo_robot/share/modelo_robot/launch
+copying launch/display.launch.py -> /home/joacohuara/Proyectos_ROS2/barista_robot/install/modelo_robot/share/modelo_robot/launch
+creating /home/joacohuara/Proyectos_ROS2/barista_robot/install/modelo_robot/share/modelo_robot/meshes
+copying meshes/pivot1.STL -> /home/joacohuara/Proyectos_ROS2/barista_robot/install/modelo_robot/share/modelo_robot/meshes
+copying meshes/pinza2.STL -> /home/joacohuara/Proyectos_ROS2/barista_robot/install/modelo_robot/share/modelo_robot/meshes
+copying meshes/pinza1.STL -> /home/joacohuara/Proyectos_ROS2/barista_robot/install/modelo_robot/share/modelo_robot/meshes
+copying meshes/gear2.STL -> /home/joacohuara/Proyectos_ROS2/barista_robot/install/modelo_robot/share/modelo_robot/meshes
+copying meshes/link0.STL -> /home/joacohuara/Proyectos_ROS2/barista_robot/install/modelo_robot/share/modelo_robot/meshes
+copying meshes/gear1.STL -> /home/joacohuara/Proyectos_ROS2/barista_robot/install/modelo_robot/share/modelo_robot/meshes
+copying meshes/link3.STL -> /home/joacohuara/Proyectos_ROS2/barista_robot/install/modelo_robot/share/modelo_robot/meshes
+copying meshes/link2.STL -> /home/joacohuara/Proyectos_ROS2/barista_robot/install/modelo_robot/share/modelo_robot/meshes
+copying meshes/pivot2.STL -> /home/joacohuara/Proyectos_ROS2/barista_robot/install/modelo_robot/share/modelo_robot/meshes
+copying meshes/base_link.STL -> /home/joacohuara/Proyectos_ROS2/barista_robot/install/modelo_robot/share/modelo_robot/meshes
+copying meshes/link5.STL -> /home/joacohuara/Proyectos_ROS2/barista_robot/install/modelo_robot/share/modelo_robot/meshes
+copying meshes/link4.STL -> /home/joacohuara/Proyectos_ROS2/barista_robot/install/modelo_robot/share/modelo_robot/meshes
+copying meshes/link6.STL -> /home/joacohuara/Proyectos_ROS2/barista_robot/install/modelo_robot/share/modelo_robot/meshes
+copying meshes/link1.STL -> /home/joacohuara/Proyectos_ROS2/barista_robot/install/modelo_robot/share/modelo_robot/meshes
+running install_egg_info
+removing '/home/joacohuara/Proyectos_ROS2/barista_robot/install/modelo_robot/lib/python3.10/site-packages/modelo_robot-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/modelo_robot/modelo_robot.egg-info to /home/joacohuara/Proyectos_ROS2/barista_robot/install/modelo_robot/lib/python3.10/site-packages/modelo_robot-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/joacohuara/Proyectos_ROS2/barista_robot/build/modelo_robot/install.log'
